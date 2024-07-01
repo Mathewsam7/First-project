@@ -1,4 +1,4 @@
-# First-project
+
 ## Retail Sales Analysis
 
 This project explores a retail sales dataset obtained from Kaggle. The purpose is to gain insights into customer behavior, product performance, and sales trends.
